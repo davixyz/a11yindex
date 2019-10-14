@@ -1,0 +1,10 @@
+{
+  "short_name": "a11yindex",
+  "name": "a11y Index",
+  "icons": [],
+  "start_url": "/",
+  "background_color": "#fff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#fff"
+}
