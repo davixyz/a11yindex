@@ -20,8 +20,8 @@
   },
   "homepage": "https://github.com/davixyz/a11yindex#readme",
   "dependencies": {
-    "next": "^9.5.4",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "next": "^10.0.1",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
   }
 }
